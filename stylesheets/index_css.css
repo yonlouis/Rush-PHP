@@ -1,0 +1,30 @@
+.blue {
+  height: 110px;
+  line-height: 110px;
+}
+
+.nav-wrapper {
+  position: relative;
+  top: 0;
+}
+
+.nav {
+  background-color: blue;
+}
+
+
+.btn:visited{
+  background-color: #64b5f6;
+  color: #ef5350;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: 64b5f6;
+}
+.btn:active{
+  background-color: 64b5f6;
+}
+
+body {
+  background-image: url('https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
